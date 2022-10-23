@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KendrickV
-- 👀 I’m interested in programing, creating, editing, destroying softwares for living.
-- 🌱 I’m currently learning C++, Embarcadero, SQL.
+- 👀 I’m interested in programing, digits, symbols, creating, editing, softwares.
+- 🌱 I’m currently learning C++, Embarcadero, SQL, .NET, JAVA, HTML, CSS, Java Script, SGBD Oracle.
 - 💞️ I’m looking to collaborate on everything that might help me to get on top
 - 📫 How to reach me: gvaleant@gmail.com
 
