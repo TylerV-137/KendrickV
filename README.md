@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @ValiantG
-- 👀 I’m interested in programing, digits, symbols, creating, editing softwares.
-- 🌱 I’m currently learning C++, Embarcadero, SQL, .NET, JAVA, HTML, CSS, Java Script, SGBD Oracle.
-- 💞️ I’m looking to collaborate on everything that might help me to get on top
-- 📫 How to reach me: gvaleant@gmail.com
+In the past 3 years I have gained knowledge and experience in programming languages, databases, writing efficient code and new technologies. 
+I also hold an IT Essentials certification issued by Cisco,  Software Developer degree from STEP Academy and finished several courses on Microsoft Excel on LinkedIn Learning.
 
-<!---
-KendrickV/KendrickV is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+My focus stands on: Software Engineer , C++/POO, JavaScript, C#, SQL, ORACLE, Qt, Linux
